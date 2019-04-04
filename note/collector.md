@@ -1,8 +1,7 @@
 # collector 收集器接口
 
-##名词解释
+## 
 - metric 指标，度量标准
-- 
 
 
 ### type  Collector interface
